@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Dependency directories
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+dist/
+build/

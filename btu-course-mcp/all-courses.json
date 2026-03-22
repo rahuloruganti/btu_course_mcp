@@ -1,0 +1,3530 @@
+[
+  {
+    "id": "100050",
+    "name": "Research Module in Artificial Intelligence",
+    "lecturer": "A.Schliep",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14060"
+  },
+  {
+    "id": "100051",
+    "name": "Bioinformatics",
+    "lecturer": "A.Schliep",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14810"
+  },
+  {
+    "id": "100052",
+    "name": "Oberseminar Medizinische Bioinformatik",
+    "lecturer": "A.Schliep",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13600"
+  },
+  {
+    "id": "100060",
+    "name": "Computing at Scale in Machine Learning: Distributed computing and algorithmic approaches",
+    "lecturer": "A.Schliep",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14038"
+  },
+  {
+    "id": "100061",
+    "name": "Computing at Scale in Machine Learning: Distributed computing and algorithmic approaches",
+    "lecturer": "A.Schliep",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14038"
+  },
+  {
+    "id": "100070",
+    "name": "Introduction to Bioinformatics",
+    "lecturer": "A.Schliep",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14336"
+  },
+  {
+    "id": "100071",
+    "name": "Introduction to Bioinformatics",
+    "lecturer": "A.Schliep",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14336"
+  },
+  {
+    "id": "110110",
+    "name": "Grundlagen der Elektrotechnik",
+    "lecturer": "Uhlig",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12696"
+  },
+  {
+    "id": "110111",
+    "name": "Grundlagen der Elektrotechnik",
+    "lecturer": "Gardill, Uhlig",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12696"
+  },
+  {
+    "id": "110140",
+    "name": "Elektrische Messtechnik und Messdatenerfassung",
+    "lecturer": "Gardill, Herrmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11354"
+  },
+  {
+    "id": "110141",
+    "name": "Elektrische Messtechnik und Messdatenerfassung",
+    "lecturer": "Herrmann, Gardill",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11354"
+  },
+  {
+    "id": "110152",
+    "name": "Laborpraktikum der Elektrotechnik",
+    "lecturer": "Uhlig, Tost",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12698"
+  },
+  {
+    "id": "110153",
+    "name": "Laborpraktikum der Elektrotechnik",
+    "lecturer": "Uhlig, Tost",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12698"
+  },
+  {
+    "id": "110155",
+    "name": "Messtechnisches Labor",
+    "lecturer": "R.Uhlig, Tost",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12984"
+  },
+  {
+    "id": "110180",
+    "name": "Radar Systems",
+    "lecturer": "Gardill, Herrmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14362"
+  },
+  {
+    "id": "110181",
+    "name": "Radar Systems",
+    "lecturer": "Gardill, Herrmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14362"
+  },
+  {
+    "id": "110205",
+    "name": "Elektrodynamik",
+    "lecturer": "T.Flisgen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12284"
+  },
+  {
+    "id": "110206",
+    "name": "Elektrodynamik",
+    "lecturer": "T.Flisgen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12284"
+  },
+  {
+    "id": "110210",
+    "name": "Elektrische und magnetische Felder",
+    "lecturer": "T.Flisgen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11468"
+  },
+  {
+    "id": "110211",
+    "name": "Elektrische und magnetische Felder",
+    "lecturer": "T.Flisgen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11468"
+  },
+  {
+    "id": "110220",
+    "name": "Grundlagen der computergestützten Berechnung elektromagnetischer Felder",
+    "lecturer": "T.Flisgen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14817"
+  },
+  {
+    "id": "110221",
+    "name": "Grundlagen der computergestützten Berechnung elektromagnetischer Felder",
+    "lecturer": "T.Flisgen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14817"
+  },
+  {
+    "id": "110304",
+    "name": "Medienwissenschaftliches Forschungskolloquium",
+    "lecturer": "Petersen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12174"
+  },
+  {
+    "id": "110305",
+    "name": "Medienwissenschaftliches Doktorandenkolloquium",
+    "lecturer": "Klimczak, Petersen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "KOL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12244"
+  },
+  {
+    "id": "110306",
+    "name": "Methods and Analysis from the perspective of media psychology",
+    "lecturer": "Newiak, Petersen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13467"
+  },
+  {
+    "id": "110310",
+    "name": "Medien- und kultursemiotische Zugänge zum Zukunftswissen",
+    "lecturer": "Newiak, Petersen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11692"
+  },
+  {
+    "id": "110311",
+    "name": "Projektseminar zur Analytischen Medienwissenschaft",
+    "lecturer": "Petersen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11906"
+  },
+  {
+    "id": "110320",
+    "name": "CampusTV",
+    "lecturer": "Schuster, Rößler, Petersen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11906"
+  },
+  {
+    "id": "110401",
+    "name": "Kognitive Systeme - Perzeption und Aktion",
+    "lecturer": "Wolff",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11744"
+  },
+  {
+    "id": "110402",
+    "name": "Kognitive Systeme - Perzeption und Aktion",
+    "lecturer": "Wolff",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11744"
+  },
+  {
+    "id": "110407",
+    "name": "Nachrichtenübertragung",
+    "lecturer": "Wolff",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/33306"
+  },
+  {
+    "id": "110408",
+    "name": "Nachrichtenübertragung",
+    "lecturer": "Kuhn",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/33306"
+  },
+  {
+    "id": "110416",
+    "name": "Informations- und Kodierungstheorie",
+    "lecturer": "Wolff",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11352"
+  },
+  {
+    "id": "110417",
+    "name": "Informations- und Kodierungstheorie",
+    "lecturer": "Römer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11352"
+  },
+  {
+    "id": "110424",
+    "name": "Systemtheorie I",
+    "lecturer": "Wolff",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11908"
+  },
+  {
+    "id": "110425",
+    "name": "Systemtheorie I",
+    "lecturer": "Kuhn",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11908"
+  },
+  {
+    "id": "110601",
+    "name": "Analoge Schaltungen",
+    "lecturer": "Killat",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/33315"
+  },
+  {
+    "id": "110602",
+    "name": "Analoge Schaltungen",
+    "lecturer": "Schulz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/33315"
+  },
+  {
+    "id": "110603",
+    "name": "Analoge Schaltungen",
+    "lecturer": "Schulz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/33315"
+  },
+  {
+    "id": "110620",
+    "name": "IC Design",
+    "lecturer": "Killat",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13005"
+  },
+  {
+    "id": "110621",
+    "name": "IC Design",
+    "lecturer": "Killat",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13005"
+  },
+  {
+    "id": "110640",
+    "name": "Analogtechnik",
+    "lecturer": "Killat",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12838"
+  },
+  {
+    "id": "110641",
+    "name": "Analogtechnik",
+    "lecturer": "Killat",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12838"
+  },
+  {
+    "id": "110642",
+    "name": "Analogtechnik",
+    "lecturer": "Killat",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12838"
+  },
+  {
+    "id": "112110",
+    "name": "Introduction to Radio Frequency Technique (Grundlagen der Hochfrequenztechnik)",
+    "lecturer": "Rudolph",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14823"
+  },
+  {
+    "id": "112111",
+    "name": "Introduction to Radio Frequency Technique (Grundlagen der Hochfrequenztechnik)",
+    "lecturer": "P.Manchanda",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14823"
+  },
+  {
+    "id": "112120",
+    "name": "Selected Chapters in Microwave Electronics",
+    "lecturer": "Rudolph",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14047"
+  },
+  {
+    "id": "112130",
+    "name": "Introduction to Microwave Electronic",
+    "lecturer": "Rudolph",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14032"
+  },
+  {
+    "id": "112131",
+    "name": "Introduction to Microwave Electronic:",
+    "lecturer": "Rudolph",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14032"
+  },
+  {
+    "id": "112210",
+    "name": "Semiconductor Technology",
+    "lecturer": "Kahmen",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13009"
+  },
+  {
+    "id": "112310",
+    "name": "Grundlagen der Antennen",
+    "lecturer": "Ndip",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14315"
+  },
+  {
+    "id": "112311",
+    "name": "Grundlagen der Antennen",
+    "lecturer": "R.Stöcker",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14315"
+  },
+  {
+    "id": "112320",
+    "name": "Antennas I",
+    "lecturer": "Ndip",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14316"
+  },
+  {
+    "id": "112321",
+    "name": "Antennas I",
+    "lecturer": "R.Stöcker",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14316"
+  },
+  {
+    "id": "112330",
+    "name": "Antenna Design Laboratory II",
+    "lecturer": "Nahiyan",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14319"
+  },
+  {
+    "id": "112410",
+    "name": "Künstliche Intelligenz in der Materialdiagnostik",
+    "lecturer": "C.Tschöpe",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11811"
+  },
+  {
+    "id": "112411",
+    "name": "Künstliche Intelligenz in der Materialdiagnostik",
+    "lecturer": "C.Tschöpe",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11811"
+  },
+  {
+    "id": "120010",
+    "name": "Informatik-Kolloquium / Kollegium",
+    "lecturer": "alle Dozenten der Informatik",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "KOL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11891"
+  },
+  {
+    "id": "120030",
+    "name": "IT Security Law",
+    "lecturer": "Seiler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11891"
+  },
+  {
+    "id": "120110",
+    "name": "Theoretische Informatik",
+    "lecturer": "Meer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11787"
+  },
+  {
+    "id": "120111",
+    "name": "Theoretische Informatik",
+    "lecturer": "Wurm",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11787"
+  },
+  {
+    "id": "120112",
+    "name": "Theoretische Informatik",
+    "lecturer": "Wurm",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11787"
+  },
+  {
+    "id": "120120",
+    "name": "Approximationsalgorithmen",
+    "lecturer": "Meer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12329"
+  },
+  {
+    "id": "120121",
+    "name": "Approximationsalgorithmen",
+    "lecturer": "Wurm",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12329"
+  },
+  {
+    "id": "120150",
+    "name": "Oberseminar des Lehrstuhls Theoretische Informatik",
+    "lecturer": "Meer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12333"
+  },
+  {
+    "id": "120210",
+    "name": "Datenbanken",
+    "lecturer": "Schmitt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12330"
+  },
+  {
+    "id": "120211",
+    "name": "Datenbanken",
+    "lecturer": "Stahl",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12330"
+  },
+  {
+    "id": "120220",
+    "name": "Logic in Databases",
+    "lecturer": "Schmitt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13813"
+  },
+  {
+    "id": "120221",
+    "name": "Logic in Databases",
+    "lecturer": "Schmitt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13813"
+  },
+  {
+    "id": "120230",
+    "name": "Grundlagen des Data Mining / Foundations of Data Mining",
+    "lecturer": "Schmitt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11881"
+  },
+  {
+    "id": "120231",
+    "name": "Grundlagen des Data Mining / Foundations of Data Mining",
+    "lecturer": "A.Stahl",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11881"
+  },
+  {
+    "id": "120260",
+    "name": "Oberseminar des Lehrstuhls Datenbank- und Informationssysteme",
+    "lecturer": "Schmitt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12333"
+  },
+  {
+    "id": "120410",
+    "name": "Elektrische und elektronische Grundlagen der Informatik",
+    "lecturer": "Herglotz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12107"
+  },
+  {
+    "id": "120411",
+    "name": "Elektrische und elektronische Grundlagen der Informatik",
+    "lecturer": "Herglotz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12107"
+  },
+  {
+    "id": "120430",
+    "name": "Processor Architecture",
+    "lecturer": "Herglotz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12976"
+  },
+  {
+    "id": "120431",
+    "name": "Processor Architecture",
+    "lecturer": "Janani",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12976"
+  },
+  {
+    "id": "120440",
+    "name": "Dependability and Fault Tolerance",
+    "lecturer": "Taheri",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11886"
+  },
+  {
+    "id": "120441",
+    "name": "Dependability and Fault Tolerance",
+    "lecturer": "Taheri",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11886"
+  },
+  {
+    "id": "120450",
+    "name": "Proseminar \"Computers and Networks\"",
+    "lecturer": "Herglotz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PS",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12111"
+  },
+  {
+    "id": "120460",
+    "name": "Technische Informatik (Seminar Computer Engineering)",
+    "lecturer": "?",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12317"
+  },
+  {
+    "id": "120470",
+    "name": "Dependable HW- / SW-Systems",
+    "lecturer": "Herglotz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12333"
+  },
+  {
+    "id": "120490",
+    "name": "Virtual Vision",
+    "lecturer": "Herglotz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14724"
+  },
+  {
+    "id": "120510",
+    "name": "Introduction to Cyber Security",
+    "lecturer": "Panchenko",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11889"
+  },
+  {
+    "id": "120511",
+    "name": "Introduction to Cyber Security",
+    "lecturer": "Panchenko",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11889"
+  },
+  {
+    "id": "120520",
+    "name": "Study Project Adversarial Machine Learning",
+    "lecturer": "Panchenko, Mitseva",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11894"
+  },
+  {
+    "id": "120530",
+    "name": "Research Seminar \"Advanced Topics in Network and System Security\"",
+    "lecturer": "Panchenko, Mitseva",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12790"
+  },
+  {
+    "id": "120540",
+    "name": "Grundlagen der System- und Netzwerksicherheit",
+    "lecturer": "Panchenko, Mitseva",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PS",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12111"
+  },
+  {
+    "id": "120610",
+    "name": "Entwicklung von Softwaresystemen",
+    "lecturer": "L.Lambers",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12104"
+  },
+  {
+    "id": "120611",
+    "name": "Entwicklung von Softwaresystemen",
+    "lecturer": "T.Khakharova, L.Sakizloglou",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12104"
+  },
+  {
+    "id": "120620",
+    "name": "Formale Methoden für die Softwaretechnik",
+    "lecturer": "L.Lambers, L.Sakizloglou",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13877"
+  },
+  {
+    "id": "120621",
+    "name": "Formale Methoden für die Softwaretechnik",
+    "lecturer": "L.Sakizloglou",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13877"
+  },
+  {
+    "id": "120622",
+    "name": "Formale Methoden für die Softwaretechnik",
+    "lecturer": "L.Lambers",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13877"
+  },
+  {
+    "id": "120630",
+    "name": "Softwarepraktikum",
+    "lecturer": "L.Lambers",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12202"
+  },
+  {
+    "id": "120710",
+    "name": "Einführung in die Constraint-Programmierung",
+    "lecturer": "Hofstedt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12472"
+  },
+  {
+    "id": "120711",
+    "name": "Einführung in die Constraint-Programmierung",
+    "lecturer": "Hofstedt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12472"
+  },
+  {
+    "id": "120720",
+    "name": "Einführung in die Künstliche Intelligenz",
+    "lecturer": "Hofstedt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11374"
+  },
+  {
+    "id": "120721",
+    "name": "Einführung in die Künstliche Intelligenz",
+    "lecturer": "Hofstedt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11374"
+  },
+  {
+    "id": "120730",
+    "name": "Programmierpraktikum",
+    "lecturer": "Hofstedt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12102"
+  },
+  {
+    "id": "120731",
+    "name": "Programmierpraktikum",
+    "lecturer": "S.Löffler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12102"
+  },
+  {
+    "id": "120740",
+    "name": "Languages of Artificial Intelligence",
+    "lecturer": "Hofstedt, Löffler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14034"
+  },
+  {
+    "id": "120741",
+    "name": "Languages of Artificial Intelligence",
+    "lecturer": "Löffler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14034"
+  },
+  {
+    "id": "120780",
+    "name": "Programmiersprachen und Compilerbau",
+    "lecturer": "Hofstedt, Nuck",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12474"
+  },
+  {
+    "id": "120781",
+    "name": "Programming Languages and Techniques for Artificial Intelligence Laboratory",
+    "lecturer": "Hofstedt, Nuck",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14051"
+  },
+  {
+    "id": "120782",
+    "name": "Spezielle Modelle und Verfahren für das Tourenplanungsproblem (VRP)",
+    "lecturer": "Hofstedt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12461"
+  },
+  {
+    "id": "120910",
+    "name": "Einführung in Maschinelles Lernen",
+    "lecturer": "Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13565"
+  },
+  {
+    "id": "120911",
+    "name": "Einführung in Maschinelles Lernen",
+    "lecturer": "Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13565"
+  },
+  {
+    "id": "120915",
+    "name": "Praktikum Maschinelles Lernen",
+    "lecturer": "Cunningham Schneidereit",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13566"
+  },
+  {
+    "id": "120920",
+    "name": "Grundzüge der Computergrafik",
+    "lecturer": "Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12311"
+  },
+  {
+    "id": "120921",
+    "name": "Grundzüge der Computergrafik",
+    "lecturer": "N.Pschipsch",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12311"
+  },
+  {
+    "id": "120930",
+    "name": "Research Module in Artificial Intelligence",
+    "lecturer": "Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14060"
+  },
+  {
+    "id": "120940",
+    "name": "Methoden und Technologie der Künstlichen Intelligenz",
+    "lecturer": "Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PS",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13567"
+  },
+  {
+    "id": "120950",
+    "name": "Braitenberg Vehikel Praktikum",
+    "lecturer": "Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13869"
+  },
+  {
+    "id": "120980",
+    "name": "Learning in Real and Virtual Humans",
+    "lecturer": "Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13846"
+  },
+  {
+    "id": "120981",
+    "name": "Learning in Real and Virtual Humans",
+    "lecturer": "D.Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13846"
+  },
+  {
+    "id": "120990",
+    "name": "Oberseminar Grafische Systeme",
+    "lecturer": "Cunningham",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11861"
+  },
+  {
+    "id": "121010",
+    "name": "Operating Systems II (Multi-Level Memory Management)",
+    "lecturer": "Nolte",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11861"
+  },
+  {
+    "id": "121011",
+    "name": "Operating Systems II (Multi-Level Memory Management)",
+    "lecturer": "Karnapke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11861"
+  },
+  {
+    "id": "121020",
+    "name": "Verteilte und Parallele Systeme I",
+    "lecturer": "Nolte",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12341"
+  },
+  {
+    "id": "121021",
+    "name": "Verteilte und Parallele Systeme I",
+    "lecturer": "Rotta",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12341"
+  },
+  {
+    "id": "121030",
+    "name": "Verteilte und Parallele Systeme III",
+    "lecturer": "Nolte",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12517"
+  },
+  {
+    "id": "121031",
+    "name": "Verteilte und Parallele Systeme III",
+    "lecturer": "Karnapke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12517"
+  },
+  {
+    "id": "121040",
+    "name": "Embedded Real-Time Systems",
+    "lecturer": "Karnapke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12882"
+  },
+  {
+    "id": "121041",
+    "name": "Embedded Real-Time Systems",
+    "lecturer": "Karnapke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12882"
+  },
+  {
+    "id": "121050",
+    "name": "Praktikum Betriebssysteme (Bachelor)",
+    "lecturer": "Karnapke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12340"
+  },
+  {
+    "id": "121051",
+    "name": "Praktikum Betriebssysteme (Master)",
+    "lecturer": "Karnapke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12416"
+  },
+  {
+    "id": "121060",
+    "name": "Ultra-large Tiered Memory Systems",
+    "lecturer": "Nolte",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12461"
+  },
+  {
+    "id": "121061",
+    "name": "Self-Organizing Wireless Networks",
+    "lecturer": "Nolte",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12461"
+  },
+  {
+    "id": "121070",
+    "name": "Oberseminar des Lehrstuhls Verteilte Systeme/Betriebssysteme",
+    "lecturer": "Nolte",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "OS",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12333"
+  },
+  {
+    "id": "122130",
+    "name": "Wireless Sensor Networks: Concepts, Protocolls and Applications",
+    "lecturer": "K.Piotrowski, J.Mai",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11864"
+  },
+  {
+    "id": "122210",
+    "name": "Security of Resource-constraint Systems",
+    "lecturer": "Langendörfer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11897"
+  },
+  {
+    "id": "122220",
+    "name": "Cyber Security Application Areas",
+    "lecturer": "Langendörfer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11899"
+  },
+  {
+    "id": "122250",
+    "name": "Pervasive System Security",
+    "lecturer": "Kabin, Petryk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11862"
+  },
+  {
+    "id": "122260",
+    "name": "Application of side-channel analysis methods in the earlier design phase of cryptographic implementations",
+    "lecturer": "Z.Dyka",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14035"
+  },
+  {
+    "id": "122261",
+    "name": "Conversational Artificial Intelligence: History, Application, Future",
+    "lecturer": "S.Meissner",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14013"
+  },
+  {
+    "id": "130010",
+    "name": "Mathematisches Kolloquium",
+    "lecturer": "G.Averkov",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "KOL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11982"
+  },
+  {
+    "id": "130060",
+    "name": "Statistik (BWL/FH)",
+    "lecturer": "Gäbler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11982"
+  },
+  {
+    "id": "130070",
+    "name": "Statistics",
+    "lecturer": "Gäbler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11212"
+  },
+  {
+    "id": "130071",
+    "name": "Statistics",
+    "lecturer": "Gäbler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11212"
+  },
+  {
+    "id": "130072",
+    "name": "Statistics",
+    "lecturer": "N.N.",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11212"
+  },
+  {
+    "id": "130110",
+    "name": "Analysis III",
+    "lecturer": "Hauer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11201"
+  },
+  {
+    "id": "130111",
+    "name": "Analysis III",
+    "lecturer": "J.Slegers",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11201"
+  },
+  {
+    "id": "130130",
+    "name": "Analysis I",
+    "lecturer": "Hauer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11103"
+  },
+  {
+    "id": "130131",
+    "name": "Analysis I",
+    "lecturer": "Borchard",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11103"
+  },
+  {
+    "id": "130220",
+    "name": "Algebra: Structures and Algorithms",
+    "lecturer": "G.Averkov",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13911"
+  },
+  {
+    "id": "130230",
+    "name": "Mathematik IT-1 (Diskrete Mathematik)",
+    "lecturer": "G.Averkov",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11112"
+  },
+  {
+    "id": "130231",
+    "name": "Mathematik IT-1 (Diskrete Mathematik)",
+    "lecturer": "Zell",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11112"
+  },
+  {
+    "id": "130232",
+    "name": "Mathematik IT-1 (Diskrete Mathematik)",
+    "lecturer": "M.Bernhardt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11112"
+  },
+  {
+    "id": "130310",
+    "name": "Introduction to Mathematical Methods in Artificial Intelligence",
+    "lecturer": "T.Schneidereit",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14015"
+  },
+  {
+    "id": "130320",
+    "name": "Scientific Computing",
+    "lecturer": "M.Breuß",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13843"
+  },
+  {
+    "id": "130330",
+    "name": "Differential Geometry / Differentialgeometrie",
+    "lecturer": "M.Breuß",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13949"
+  },
+  {
+    "id": "130340",
+    "name": "Numerik-Seminar",
+    "lecturer": "M.Breuß, M.Oevermann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11339"
+  },
+  {
+    "id": "130350",
+    "name": "Research Topics in Artificial Intelligence and Computer Vision",
+    "lecturer": "T.Schneidereit",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14060"
+  },
+  {
+    "id": "130410",
+    "name": "Graph Theory",
+    "lecturer": "E.Köhler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11415"
+  },
+  {
+    "id": "130411",
+    "name": "Graph Theory",
+    "lecturer": "R.Scheffler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11415"
+  },
+  {
+    "id": "130420",
+    "name": "Lineare Algebra und analytische Geometrie I",
+    "lecturer": "E.Köhler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11101"
+  },
+  {
+    "id": "130421",
+    "name": "Lineare Algebra und analytische Geometrie I",
+    "lecturer": "R.Scheffler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11101"
+  },
+  {
+    "id": "130424",
+    "name": "Lineare Algebra und analytische Geometrie I",
+    "lecturer": "N.N.",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11101"
+  },
+  {
+    "id": "130460",
+    "name": "Oberseminar LS Mathematische Grundlagen der Informatik",
+    "lecturer": "E.Köhler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "OS",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11217"
+  },
+  {
+    "id": "130520",
+    "name": "Wahrscheinlichkeitstheorie",
+    "lecturer": "Wunderlich",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11217"
+  },
+  {
+    "id": "130521",
+    "name": "Wahrscheinlichkeitstheorie",
+    "lecturer": "Kebiri",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11217"
+  },
+  {
+    "id": "130530",
+    "name": "Mathematik W-1",
+    "lecturer": "Wunderlich",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11109"
+  },
+  {
+    "id": "130531",
+    "name": "Mathematik W-1",
+    "lecturer": "Szerement",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11109"
+  },
+  {
+    "id": "130532",
+    "name": "Mathematik W-1",
+    "lecturer": "Starke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11109"
+  },
+  {
+    "id": "130533",
+    "name": "Mathematik W-1 - Tutorenanleitung",
+    "lecturer": "Szerement",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11109"
+  },
+  {
+    "id": "130534",
+    "name": "Tutorium Höhere Mathematik W-1",
+    "lecturer": "Szerement",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11109"
+  },
+  {
+    "id": "130620",
+    "name": "Höhere Mathematik - T3",
+    "lecturer": "Pickenhain",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11206"
+  },
+  {
+    "id": "130621",
+    "name": "Höhere Mathematik - T3",
+    "lecturer": "Kahra",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11206"
+  },
+  {
+    "id": "130622",
+    "name": "Höhere Mathematik - T3",
+    "lecturer": "Spivak",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11206"
+  },
+  {
+    "id": "130623",
+    "name": "Höhere Mathematik - T3",
+    "lecturer": "Hitziger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11206"
+  },
+  {
+    "id": "130626",
+    "name": "Aufbaukurs Höhere Mathematik - T3",
+    "lecturer": "Kahra",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11206"
+  },
+  {
+    "id": "130627",
+    "name": "Tutorenanleitung Höhere Mathematik - T3",
+    "lecturer": "Spivak",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11213"
+  },
+  {
+    "id": "130630",
+    "name": "Mathematik IT-3 (Analysis)",
+    "lecturer": "Lykina",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11213"
+  },
+  {
+    "id": "130631",
+    "name": "Mathematik IT-3 (Analysis)",
+    "lecturer": "Starke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11213"
+  },
+  {
+    "id": "130710",
+    "name": "Mathematical Optimization Techniques and Applications",
+    "lecturer": "Fügenschuh",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14726"
+  },
+  {
+    "id": "130711",
+    "name": "Mathematical Optimization Techniques and Applications",
+    "lecturer": "J.Schmidt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14726"
+  },
+  {
+    "id": "130730",
+    "name": "Forschungsseminar des Fachgebiets Ingenieurmathematik und Numerik der Optimierung",
+    "lecturer": "Fügenschuh",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13164"
+  },
+  {
+    "id": "130740",
+    "name": "Projektseminar numerische gemischt-ganzzahlige Programmierung",
+    "lecturer": "Fügenschuh",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13164"
+  },
+  {
+    "id": "130750",
+    "name": "Mathematics of Engineering I",
+    "lecturer": "Fügenschuh",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11110"
+  },
+  {
+    "id": "130751",
+    "name": "Mathematics of Engineering I",
+    "lecturer": "Foghem Gounoue",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11110"
+  },
+  {
+    "id": "130752",
+    "name": "Mathematics of Engineering I",
+    "lecturer": "Takam",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11110"
+  },
+  {
+    "id": "130810",
+    "name": "Statistik W-3",
+    "lecturer": "Hartmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11917"
+  },
+  {
+    "id": "130811",
+    "name": "Statistik W-3 (UE)",
+    "lecturer": "Marko",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11917"
+  },
+  {
+    "id": "130812",
+    "name": "Statistik W-3 (Konsultationen)",
+    "lecturer": "Gäbler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11917"
+  },
+  {
+    "id": "130813",
+    "name": "Statistik W-3 - Tutorenanleitung",
+    "lecturer": "Gäbler",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13639"
+  },
+  {
+    "id": "130830",
+    "name": "Mathematical Foundations of Data Science",
+    "lecturer": "Hartmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13639"
+  },
+  {
+    "id": "130831",
+    "name": "Mathematical Foundations of Data Science",
+    "lecturer": "Kebiri",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13639"
+  },
+  {
+    "id": "130850",
+    "name": "Forschungsseminar Stochastik",
+    "lecturer": "Hartmann, Wunderlich, Freudenberg",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11503"
+  },
+  {
+    "id": "130910",
+    "name": "Functional Analysis / Funktionalanalysis",
+    "lecturer": "Wachsmuth",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11303"
+  },
+  {
+    "id": "130911",
+    "name": "Functional Analysis / Funktionalanalysis",
+    "lecturer": "N.Borchard",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11303"
+  },
+  {
+    "id": "130920",
+    "name": "Differentiable Optimization",
+    "lecturer": "Wachsmuth",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13392"
+  },
+  {
+    "id": "130921",
+    "name": "Differentiable Optimization",
+    "lecturer": "J.Marko",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13392"
+  },
+  {
+    "id": "130950",
+    "name": "Forschungsseminar Analysis und Optimierung",
+    "lecturer": "Wachsmuth, Hauer, Pickenhain",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11503"
+  },
+  {
+    "id": "131110",
+    "name": "Numerische Mathematik",
+    "lecturer": "Oevermann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11925"
+  },
+  {
+    "id": "131111",
+    "name": "Numerische Mathematik",
+    "lecturer": "C.Zenker",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11925"
+  },
+  {
+    "id": "131112",
+    "name": "Numerische Mathematik",
+    "lecturer": "C.Zenker",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11942"
+  },
+  {
+    "id": "131120",
+    "name": "Höhere Mathematik - T1 / T1 - BI / K",
+    "lecturer": "Oevermann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11107"
+  },
+  {
+    "id": "131121",
+    "name": "Höhere Mathematik - T1",
+    "lecturer": "Zell",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11107"
+  },
+  {
+    "id": "131122",
+    "name": "Höhere Mathematik - T1",
+    "lecturer": "Spivak",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11107"
+  },
+  {
+    "id": "131123",
+    "name": "Höhere Mathematik T1 - BI",
+    "lecturer": "Hitziger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11281"
+  },
+  {
+    "id": "131124",
+    "name": "Tutorium zum Modul Höhere Mathematik T1 - BI",
+    "lecturer": "Hitziger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11281"
+  },
+  {
+    "id": "131125",
+    "name": "Höhere Mathematik - T1 - Tutorenanleitung",
+    "lecturer": "Spivak",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11107"
+  },
+  {
+    "id": "131126",
+    "name": "Aufbaukurs Höhere Mathematik - T1 / T1 - BI / K",
+    "lecturer": "Pfeiffer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11107"
+  },
+  {
+    "id": "131127",
+    "name": "Tutorium Höhere Mathematik - T1 / T1 - BI / K",
+    "lecturer": "Matthäi",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11107"
+  },
+  {
+    "id": "140000",
+    "name": "Medizinische Grundlagen - Funktionelle Anatomie",
+    "lecturer": "M.Schierack",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11777"
+  },
+  {
+    "id": "140001",
+    "name": "Medizinische Grundlagen - Propädeutik",
+    "lecturer": "Reinhardt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11777"
+  },
+  {
+    "id": "140002",
+    "name": "Medizinische Grundlagen - Physiologie",
+    "lecturer": "M.Wagner, F.Müller",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11777"
+  },
+  {
+    "id": "140003",
+    "name": "Medizinische Grundlagen - Physiologiepraktikum für MedIF",
+    "lecturer": "F.Müller",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11777"
+  },
+  {
+    "id": "140004",
+    "name": "Medizinische Grundlagen - Physiologiepraktikum für MT",
+    "lecturer": "F.Müller",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11777"
+  },
+  {
+    "id": "140010",
+    "name": "Mikrobiologie / Hygiene",
+    "lecturer": "M.Wagner, F.Müller",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11779"
+  },
+  {
+    "id": "140011",
+    "name": "Mikrobiologie / Hygiene - Praktikum für MedIF",
+    "lecturer": "F.Müller",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11779"
+  },
+  {
+    "id": "140012",
+    "name": "Mikrobiologie / Hygiene - Praktikum für MT",
+    "lecturer": "F.Müller",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11779"
+  },
+  {
+    "id": "140013",
+    "name": "Organisation des Gesundheitswesens / Krankenhausbetriebswirtschaft",
+    "lecturer": "Reinhardt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11779"
+  },
+  {
+    "id": "140040",
+    "name": "Entwicklung von Softwaresystemen",
+    "lecturer": "Robel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12104"
+  },
+  {
+    "id": "140041",
+    "name": "Entwicklung von Softwaresystemen",
+    "lecturer": "Robel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12104"
+  },
+  {
+    "id": "140050",
+    "name": "Programmierpraktikum",
+    "lecturer": "Robel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12102"
+  },
+  {
+    "id": "140051",
+    "name": "Programmierpraktikum",
+    "lecturer": "Robel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12102"
+  },
+  {
+    "id": "140052",
+    "name": "Programmierpraktikum",
+    "lecturer": "Robel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12102"
+  },
+  {
+    "id": "140092",
+    "name": "College - Vorkurs Einführung in die Programmierung",
+    "lecturer": "Robel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14021"
+  },
+  {
+    "id": "140093",
+    "name": "College - Grundkurs Programmieren",
+    "lecturer": "Robel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14021"
+  },
+  {
+    "id": "140220",
+    "name": "Explainable Artificial Intelligence",
+    "lecturer": "E.Schneider, I.Bönninger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14021"
+  },
+  {
+    "id": "140221",
+    "name": "Explainable Artificial Intelligence",
+    "lecturer": "E.Schneider, I.Bönninger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14021"
+  },
+  {
+    "id": "140255",
+    "name": "Softwarepraktikum Medizininformatik",
+    "lecturer": "E.Schneider",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12202"
+  },
+  {
+    "id": "140300",
+    "name": "Introduction to Computational Neuroscience",
+    "lecturer": "Glasauer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13849"
+  },
+  {
+    "id": "140301",
+    "name": "Introduction to Computational Neuroscience",
+    "lecturer": "Glasauer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13849"
+  },
+  {
+    "id": "140310",
+    "name": "Modellierung biologischer Systeme",
+    "lecturer": "Glasauer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11764"
+  },
+  {
+    "id": "140311",
+    "name": "Modellierung biologischer Systeme",
+    "lecturer": "Glasauer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11764"
+  },
+  {
+    "id": "140340",
+    "name": "Introduction to Neural Signal Analysis",
+    "lecturer": "Shirzhiyan",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13500"
+  },
+  {
+    "id": "140341",
+    "name": "Introduction to Neural Signal Analysis",
+    "lecturer": "Shirzhiyan",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13500"
+  },
+  {
+    "id": "142110",
+    "name": "Brain-Computer Interfaces (BCIs) for Neuroadaptive Technology",
+    "lecturer": "T.Zander",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13335"
+  },
+  {
+    "id": "142112",
+    "name": "Brain-Computer Interfaces (BCIs) for Neuroadaptive Technology",
+    "lecturer": "L.Mihic Zidar",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13335"
+  },
+  {
+    "id": "142120",
+    "name": "Foundations of Psychophysiology",
+    "lecturer": "M.Klug",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13942"
+  },
+  {
+    "id": "142121",
+    "name": "Foundations of Psychophysiology",
+    "lecturer": "M.Klug",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13942"
+  },
+  {
+    "id": "142130",
+    "name": "Neuroadaptive Technology",
+    "lecturer": "T.Zander",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12463"
+  },
+  {
+    "id": "142140",
+    "name": "Projektmodul",
+    "lecturer": "T.Zander, L.Mihic Zidar",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14060"
+  },
+  {
+    "id": "148230",
+    "name": "Einführung in die Programmierung",
+    "lecturer": "Weigert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11826"
+  },
+  {
+    "id": "148232",
+    "name": "Einführung in die Programmierung",
+    "lecturer": "Irrgang",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11826"
+  },
+  {
+    "id": "148233",
+    "name": "Einführung in die Programmierung",
+    "lecturer": "Irrgang",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11826"
+  },
+  {
+    "id": "148234",
+    "name": "Einführung in die Programmierung - Tutorenanleitung",
+    "lecturer": "Irrgang",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11826"
+  },
+  {
+    "id": "148250",
+    "name": "Einführung in die Programmierung (SFB)",
+    "lecturer": "Weigert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11826"
+  },
+  {
+    "id": "148251",
+    "name": "Einführung in die Programmierung (SFB; ET, MT)",
+    "lecturer": "Weigert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11826"
+  },
+  {
+    "id": "148252",
+    "name": "Einführung in die Programmierung (SFB; angw. Naturwissenschaften)",
+    "lecturer": "Weigert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11826"
+  },
+  {
+    "id": "148260",
+    "name": "Betriebssysteme und Rechnernetze - Betriebssysteme",
+    "lecturer": "Reichelt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11760"
+  },
+  {
+    "id": "148261",
+    "name": "Betriebssysteme und Rechnernetze - Rechnernetze",
+    "lecturer": "Irrgang",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11760"
+  },
+  {
+    "id": "150020",
+    "name": "Fortgeschrittenenpraktikum 2",
+    "lecturer": "N.N.",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11873"
+  },
+  {
+    "id": "150030",
+    "name": "Physikalisches Kolloquium",
+    "lecturer": "I.Flege",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "KOL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11875"
+  },
+  {
+    "id": "150110",
+    "name": "Theoretische Physik G2 (Elektro- und Thermodynamik)",
+    "lecturer": "Seibold",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11875"
+  },
+  {
+    "id": "150111",
+    "name": "Theoretische Physik G2 (Elektro- und Thermodynamik)",
+    "lecturer": "M.Paul",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11875"
+  },
+  {
+    "id": "150160",
+    "name": "Introduction to Semiconductor Physics",
+    "lecturer": "Wulf",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13023"
+  },
+  {
+    "id": "150161",
+    "name": "Introduction to Semiconductor Physics",
+    "lecturer": "Wulf",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13023"
+  },
+  {
+    "id": "150170",
+    "name": "Mathematische Methoden der Physik",
+    "lecturer": "Wulf",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13047"
+  },
+  {
+    "id": "150171",
+    "name": "Mathematische Methoden der Physik",
+    "lecturer": "Wulf",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13047"
+  },
+  {
+    "id": "150190",
+    "name": "Solid State Theory",
+    "lecturer": "Seibold",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13026"
+  },
+  {
+    "id": "150191",
+    "name": "Solid State Theory",
+    "lecturer": "D.Grigorovich",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13026"
+  },
+  {
+    "id": "150192",
+    "name": "Solid State Theory",
+    "lecturer": "Seibold",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13026"
+  },
+  {
+    "id": "150210",
+    "name": "Theoretische Physik V2 (Elektro- und Thermodynamik)",
+    "lecturer": "D.Gorelova",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11877"
+  },
+  {
+    "id": "150211",
+    "name": "Theoretische Physik V2 (Elektro- und Thermodynamik)",
+    "lecturer": "M.Paul",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11877"
+  },
+  {
+    "id": "150220",
+    "name": "Waves and Instabilities in Fluids",
+    "lecturer": "R.Borcia",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13440"
+  },
+  {
+    "id": "150221",
+    "name": "Waves and Instabilities in Fluids",
+    "lecturer": "I.Borcia",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13440"
+  },
+  {
+    "id": "150230",
+    "name": "Computational Quantum Physics",
+    "lecturer": "D.Gorelova",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14289"
+  },
+  {
+    "id": "150231",
+    "name": "Computational Quantum Physics",
+    "lecturer": "D.Gorelova",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14289"
+  },
+  {
+    "id": "150250",
+    "name": "Thermodynamics for Engineers",
+    "lecturer": "N.Moreira",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14873"
+  },
+  {
+    "id": "150251",
+    "name": "Thermodynamics for Engineers",
+    "lecturer": "N.Moreira",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14873"
+  },
+  {
+    "id": "150310",
+    "name": "Nanocatalysis - Fundamentals and Applications",
+    "lecturer": "C.Morales Sanchez",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13052"
+  },
+  {
+    "id": "150311",
+    "name": "Nanocatalysis - Fundamentals and Applications",
+    "lecturer": "C.Morales Sanchez",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13052"
+  },
+  {
+    "id": "150320",
+    "name": "Allgemeine Physik III (Optik, Atome und Moleküle)",
+    "lecturer": "L.Buß, I.Flege",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11867"
+  },
+  {
+    "id": "150321",
+    "name": "Allgemeine Physik III (Optik, Atome und Moleküle)",
+    "lecturer": "Buß",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11867"
+  },
+  {
+    "id": "150330",
+    "name": "Angewandte Physik (Materialanalytik)",
+    "lecturer": "R.Sanchez",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11879"
+  },
+  {
+    "id": "150331",
+    "name": "Angewandte Physik (Materialanalytik)",
+    "lecturer": "R.Sanchez",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11879"
+  },
+  {
+    "id": "150340",
+    "name": "Advanced Seminar Experimental Physics",
+    "lecturer": "R.Sanchez",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13012"
+  },
+  {
+    "id": "150371",
+    "name": "Applied Spectroscopy",
+    "lecturer": "I.Flege",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13008"
+  },
+  {
+    "id": "150410",
+    "name": "Allgemeine Physik I (Mechanik, Thermodynamik)",
+    "lecturer": "I.Fischer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11865"
+  },
+  {
+    "id": "150411",
+    "name": "Allgemeine Physik I (Mechanik, Thermodynamik)",
+    "lecturer": "Schlipf",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11865"
+  },
+  {
+    "id": "150420",
+    "name": "Light and Matter: Introduction",
+    "lecturer": "I.Fischer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13024"
+  },
+  {
+    "id": "150421",
+    "name": "Light and Matter: Introduction",
+    "lecturer": "I.Fischer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13024"
+  },
+  {
+    "id": "150422",
+    "name": "Journal Club Light and Matter: Introduction",
+    "lecturer": "I.Fischer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13024"
+  },
+  {
+    "id": "150430",
+    "name": "Nano-Photonics",
+    "lecturer": "I.Fischer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13012"
+  },
+  {
+    "id": "150460",
+    "name": "Advanced Micro- and Nanoelectronic Devices",
+    "lecturer": "Mai",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14033"
+  },
+  {
+    "id": "150461",
+    "name": "Advanced Micro- and Nanoelectronic Devices",
+    "lecturer": "Mai",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14033"
+  },
+  {
+    "id": "152110",
+    "name": "Semiconductor Physics for Applied Quantum Structures",
+    "lecturer": "Wenger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14295"
+  },
+  {
+    "id": "152111",
+    "name": "Semiconductor Physics for Applied Quantum Structures",
+    "lecturer": "Wenger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14295"
+  },
+  {
+    "id": "152210",
+    "name": "Micro Systems",
+    "lecturer": "H.Schenk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13019"
+  },
+  {
+    "id": "152211",
+    "name": "Micro Systems",
+    "lecturer": "H.Schenk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13019"
+  },
+  {
+    "id": "152220",
+    "name": "Laboratory Techniques and Metrology",
+    "lecturer": "Verma",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13020"
+  },
+  {
+    "id": "152221",
+    "name": "Laboratory Techniques and Metrology",
+    "lecturer": "Verma",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13020"
+  },
+  {
+    "id": "152230",
+    "name": "Functional material systems for micro sensors and actuators",
+    "lecturer": "H.Schenk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13012"
+  },
+  {
+    "id": "152240",
+    "name": "Physik",
+    "lecturer": "H.Schenk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12359"
+  },
+  {
+    "id": "152241",
+    "name": "Physik",
+    "lecturer": "C.Ruffert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12359"
+  },
+  {
+    "id": "152250",
+    "name": "Data exploration and system management using artificial intelligence/machine learning",
+    "lecturer": "I.Jablonski",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13906"
+  },
+  {
+    "id": "152251",
+    "name": "Data exploration and system management using artificial intelligence/machine learning",
+    "lecturer": "I.Jablonski",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13906"
+  },
+  {
+    "id": "152260",
+    "name": "Physics of Modern Devices",
+    "lecturer": "L.Augel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14031"
+  },
+  {
+    "id": "152261",
+    "name": "Physics of Modern Devices",
+    "lecturer": "L.Augel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/14031"
+  },
+  {
+    "id": "158310",
+    "name": "Physikalisches Praktikum II",
+    "lecturer": "R.Schubert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11870"
+  },
+  {
+    "id": "158340",
+    "name": "Physik für Ingenieure / Physik I",
+    "lecturer": "R.Schubert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13102"
+  },
+  {
+    "id": "158342",
+    "name": "Physik für Ingenieure / Physik I",
+    "lecturer": "Henke",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13102"
+  },
+  {
+    "id": "158343",
+    "name": "Physik für Ingenieure / Physik I",
+    "lecturer": "R.Schubert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13102"
+  },
+  {
+    "id": "158344",
+    "name": "Physik für Ingenieure / Physik I - Tutorium",
+    "lecturer": "R.Schubert",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "TU",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13102"
+  },
+  {
+    "id": "220033",
+    "name": "Physik",
+    "lecturer": "I.Berger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12359"
+  },
+  {
+    "id": "228430",
+    "name": "Chemie I (Allgemeine und Anorganische Chemie)",
+    "lecturer": "Schmid",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13103"
+  },
+  {
+    "id": "228431",
+    "name": "Chemie I (Allgemeine und Anorganische Chemie)",
+    "lecturer": "Wilker",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13103"
+  },
+  {
+    "id": "228432",
+    "name": "Chemie I (Allgemeine und Anorganische Chemie)",
+    "lecturer": "Uhlmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13103"
+  },
+  {
+    "id": "310108",
+    "name": "Mikrocontrollertechnik (13255)",
+    "lecturer": "Beck, Reichelt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13255"
+  },
+  {
+    "id": "310148",
+    "name": "Mikrocontrollertechnik (13255)",
+    "lecturer": "Beck, Reichelt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13255"
+  },
+  {
+    "id": "310621",
+    "name": "Power System Economics I",
+    "lecturer": "Zundel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11192"
+  },
+  {
+    "id": "310622",
+    "name": "Power System Economics I",
+    "lecturer": "Pomp",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11192"
+  },
+  {
+    "id": "320101",
+    "name": "Medium- and Low-Voltage Technology",
+    "lecturer": "Pfeiffer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11192"
+  },
+  {
+    "id": "320103",
+    "name": "Electrical Power Generation and Integration of Wind Energy",
+    "lecturer": "Platta,K.Malekian Boroujeni",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13987"
+  },
+  {
+    "id": "320105",
+    "name": "Planung von Energieübertragungsnetzen",
+    "lecturer": "K.Malekian Boroujeni",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35312"
+  },
+  {
+    "id": "320106",
+    "name": "Planung von Energieübertragungsnetzen",
+    "lecturer": "K.Malekian Boroujeni",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35312"
+  },
+  {
+    "id": "320203",
+    "name": "Hochspannungstechnik und Isolierstoffe",
+    "lecturer": "M.Schenk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35307"
+  },
+  {
+    "id": "320204",
+    "name": "Hochspannungstechnik und Isolierstoffe",
+    "lecturer": "Lehmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35307"
+  },
+  {
+    "id": "320207",
+    "name": "EMC in Electrical Power Installations",
+    "lecturer": "M.Schenk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11191"
+  },
+  {
+    "id": "320208",
+    "name": "Grundzüge der elektrischen Energietechnik",
+    "lecturer": "M.Schenk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12718"
+  },
+  {
+    "id": "320209",
+    "name": "Grundzüge der elektrischen Energietechnik",
+    "lecturer": "Lehmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12718"
+  },
+  {
+    "id": "320216",
+    "name": "Netzbetriebsführung 1 - Netzbetrieb - Grid Operation",
+    "lecturer": "Lehmann, M.Schenk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12946"
+  },
+  {
+    "id": "320217",
+    "name": "Netzbetriebsführung 1 - Netzbetrieb - Grid Operation",
+    "lecturer": "Lehmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12946"
+  },
+  {
+    "id": "320258",
+    "name": "EEEIC SEd - International Conference on Environment and Electrical Engineering - Student Edition",
+    "lecturer": "Lehmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12642"
+  },
+  {
+    "id": "320301",
+    "name": "Allgemeine Energiewirtschaft (EW I)",
+    "lecturer": "Müsgens",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35207"
+  },
+  {
+    "id": "320302",
+    "name": "Allgemeine Energiewirtschaft (EW I)",
+    "lecturer": "Müsgens",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35207"
+  },
+  {
+    "id": "320312",
+    "name": "Resource Economics",
+    "lecturer": "Müsgens",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13295"
+  },
+  {
+    "id": "320313",
+    "name": "Resource Economics",
+    "lecturer": "Hoffmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13295"
+  },
+  {
+    "id": "320314",
+    "name": "Resource Economics",
+    "lecturer": "Hoffmann",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13295"
+  },
+  {
+    "id": "320401",
+    "name": "Kraftwerkstechnik I",
+    "lecturer": "Röntzsch, Swat",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35320"
+  },
+  {
+    "id": "320461",
+    "name": "Renewable Energy Technologies for Power Supply",
+    "lecturer": "Röntzsch",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12165"
+  },
+  {
+    "id": "320501",
+    "name": "Elektrische Maschinen 1 - Grundlagen",
+    "lecturer": "Klug",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35305"
+  },
+  {
+    "id": "320502",
+    "name": "Elektrische Maschinen 1 - Grundlagen",
+    "lecturer": "Klug",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35305"
+  },
+  {
+    "id": "320503",
+    "name": "Elektrische Maschinen 1 - Grundlagen",
+    "lecturer": "Klug, Hahn",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35305"
+  },
+  {
+    "id": "320513",
+    "name": "Regelung elektrischer Antriebe",
+    "lecturer": "Klug",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12485"
+  },
+  {
+    "id": "320514",
+    "name": "Regelung elektrischer Antriebe",
+    "lecturer": "Klug",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12485"
+  },
+  {
+    "id": "320515",
+    "name": "Regelung elektrischer Antriebe",
+    "lecturer": "Klug, Hahn",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12485"
+  },
+  {
+    "id": "320517",
+    "name": "Leistungselektronik 1",
+    "lecturer": "Klug",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12398"
+  },
+  {
+    "id": "320518",
+    "name": "Leistungselektronik 1",
+    "lecturer": "Klug",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12398"
+  },
+  {
+    "id": "320519",
+    "name": "Leistungselektronik 1",
+    "lecturer": "Klug, Hahn",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/35310"
+  },
+  {
+    "id": "320551",
+    "name": "Fundamentals in Power Electronics",
+    "lecturer": "Möhlenkamp",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11221"
+  },
+  {
+    "id": "320552",
+    "name": "Fundamentals in Power Electronics",
+    "lecturer": "Möhlenkamp",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11221"
+  },
+  {
+    "id": "320601",
+    "name": "Grundzüge der Regelungs- und Automatisierungstechnik (Teil RT)",
+    "lecturer": "Rau",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36203"
+  },
+  {
+    "id": "320602",
+    "name": "Grundzüge der Regelungs- und Automatisierungstechnik (Teil RT)",
+    "lecturer": "Rau",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36203"
+  },
+  {
+    "id": "320611",
+    "name": "Regelungstechnik 1 (universitär)",
+    "lecturer": "Schiffer",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12894"
+  },
+  {
+    "id": "320612",
+    "name": "Regelungstechnik 1 (universitär)",
+    "lecturer": "Rau",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12894"
+  },
+  {
+    "id": "320645",
+    "name": "Control Technology for Processes and Networks",
+    "lecturer": "Rau",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13294"
+  },
+  {
+    "id": "320646",
+    "name": "Control Technology for Processes and Networks",
+    "lecturer": "Rau",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13294"
+  },
+  {
+    "id": "320704",
+    "name": "Thermal Process Engineering and Equilibrium Thermodynamics",
+    "lecturer": "F.Mauß",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/44108"
+  },
+  {
+    "id": "320705",
+    "name": "Thermal Process Engineering and Equilibrium Thermodynamics",
+    "lecturer": null,
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/44108"
+  },
+  {
+    "id": "340203",
+    "name": "Grundzüge der Regelungs- und Automatisierungstechnik, Teil Automatisierungstechnik",
+    "lecturer": "U.Berger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36203"
+  },
+  {
+    "id": "340204",
+    "name": "Grundzüge der Regelungs- und Automatisierungstechnik, Teil Automatisierungstechnik",
+    "lecturer": "U.Berger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36203"
+  },
+  {
+    "id": "340209",
+    "name": "NC- und Robotertechnik",
+    "lecturer": "U.Berger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36301"
+  },
+  {
+    "id": "340210",
+    "name": "NC- und Robotertechnik",
+    "lecturer": "M.Lautsch",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36301"
+  },
+  {
+    "id": "340215",
+    "name": "Ereignisdiskrete Systeme",
+    "lecturer": "U.Berger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36401"
+  },
+  {
+    "id": "340216",
+    "name": "Ereignisdiskrete Systeme",
+    "lecturer": "U.Berger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36401"
+  },
+  {
+    "id": "340406",
+    "name": "ERP - Integrierte betriebliche Systeme",
+    "lecturer": "Näser, Wasilewski",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11152"
+  },
+  {
+    "id": "340407",
+    "name": "ERP - Integrierte betriebliche Systeme",
+    "lecturer": "Wasilewski, Näser",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11152"
+  },
+  {
+    "id": "340601",
+    "name": "Grundlagen der Werkstoffe",
+    "lecturer": "S.Weiß",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11915"
+  },
+  {
+    "id": "340602",
+    "name": "Grundlagen der Werkstoffe",
+    "lecturer": "Weiß",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11915"
+  },
+  {
+    "id": "340801",
+    "name": "Grundlagen der Qualitätslehre (QL 1)",
+    "lecturer": "K.Wälder",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36403"
+  },
+  {
+    "id": "340802",
+    "name": "Grundlagen der Qualitätslehre (QL1)",
+    "lecturer": "K.Wälder",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/36403"
+  },
+  {
+    "id": "350124",
+    "name": "Experiments in Aerodynamics and fluid mechanics",
+    "lecturer": "Engbers, Hasanuzzaman",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12233"
+  },
+  {
+    "id": "350125",
+    "name": "Experiments in Aerodynamics and fluid mechanics",
+    "lecturer": "Hasanuzzaman",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12233"
+  },
+  {
+    "id": "350141",
+    "name": "Dimensional Analysis and Experimentation",
+    "lecturer": "Harlander",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13299"
+  },
+  {
+    "id": "350142",
+    "name": "Dimensional Analysis and Experimentation",
+    "lecturer": "Harlander",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13299"
+  },
+  {
+    "id": "350411",
+    "name": "CFD Seminar",
+    "lecturer": "H.Schmidt",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13517"
+  },
+  {
+    "id": "350440",
+    "name": "CFD 1",
+    "lecturer": "H.Schmidt, Medina Mendez",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13519"
+  },
+  {
+    "id": "352102",
+    "name": "Image based measurement techniques for aerodynamics",
+    "lecturer": "A.Schröder",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13254"
+  },
+  {
+    "id": "352103",
+    "name": "Image based measurement techniques for aerodynamics",
+    "lecturer": "A.Schröder",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/13254"
+  },
+  {
+    "id": "360200",
+    "name": "Mechanische Verfahrenstechnik",
+    "lecturer": "Riebel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/44209"
+  },
+  {
+    "id": "360333",
+    "name": "Safety Technology",
+    "lecturer": "Arellano-Garcia, V.Mappas",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL/PR",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/44408"
+  },
+  {
+    "id": "505101",
+    "name": "Staats- und Verwaltungsrecht",
+    "lecturer": "Stypula, Knopp",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12225"
+  },
+  {
+    "id": "505121",
+    "name": "Übung Staats- und Verwaltungsrecht",
+    "lecturer": "Stypula",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12225"
+  },
+  {
+    "id": "505125",
+    "name": "Grundlagen Steuerrecht",
+    "lecturer": "N.N.",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11991"
+  },
+  {
+    "id": "520420",
+    "name": "Bürgerliches Recht",
+    "lecturer": "Wien",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11995"
+  },
+  {
+    "id": "530101",
+    "name": "Allgemeine Betriebswirtschaftslehre VI: Unternehmensführung und Ethik",
+    "lecturer": "Martin",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11966"
+  },
+  {
+    "id": "530102",
+    "name": "Allgemeine Betriebswirtschaftslehre VI: Unternehmensführung und Ethik",
+    "lecturer": "N.N.",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11966"
+  },
+  {
+    "id": "530109",
+    "name": "Personalökonomie und industrielle Beziehungen",
+    "lecturer": "Bittner-Zähr",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12144"
+  },
+  {
+    "id": "530121",
+    "name": "Empirische Organisationsforschung",
+    "lecturer": "Martin",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11974"
+  },
+  {
+    "id": "530126",
+    "name": "Oberseminar Organisation, Personalmanagement, Unternehmensführung",
+    "lecturer": "Martin",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11895"
+  },
+  {
+    "id": "530199",
+    "name": "Seminar zum wissenschaftlichen Arbeiten",
+    "lecturer": "Schnellenbach, Schreiber",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11343"
+  },
+  {
+    "id": "530203",
+    "name": "PuI 1: Strategisches TIM",
+    "lecturer": "K.Sarachuk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12251"
+  },
+  {
+    "id": "530204",
+    "name": "PuI 1: Strategisches TIM",
+    "lecturer": "K.Sarachuk",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12251"
+  },
+  {
+    "id": "530208",
+    "name": "Ringlabor Gründungsmanagement",
+    "lecturer": "Mißler-Behr",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/38205"
+  },
+  {
+    "id": "530311",
+    "name": "Controlling II - Investitionscontrolling",
+    "lecturer": "D.Müller",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11970"
+  },
+  {
+    "id": "530312",
+    "name": "Controlling II - Investitionscontrolling",
+    "lecturer": "M.Pisch",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11970"
+  },
+  {
+    "id": "530321",
+    "name": "Seminar Controlling",
+    "lecturer": "Sagradov",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11969"
+  },
+  {
+    "id": "530322",
+    "name": "Allgemeine Betriebswirtschaftslehre I: Grundlagen der BWL",
+    "lecturer": "D.Müller",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11984"
+  },
+  {
+    "id": "530323",
+    "name": "Allgemeine Betriebswirtschaftslehre I: Grundlagen der BWL",
+    "lecturer": "Schötz",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11984"
+  },
+  {
+    "id": "530409",
+    "name": "Marketing-Management",
+    "lecturer": "Dost",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12006"
+  },
+  {
+    "id": "530410",
+    "name": "Marketing-Management",
+    "lecturer": "Reichstein",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12006"
+  },
+  {
+    "id": "530501",
+    "name": "Allgemeine Betriebswirtschaftslehre V: Finanzierung, Investition und Steuern",
+    "lecturer": "N.N.",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11945"
+  },
+  {
+    "id": "530611",
+    "name": "Einführung in die Ökonomie - Theorie und Praxis",
+    "lecturer": "Groß",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11849"
+  },
+  {
+    "id": "530612",
+    "name": "Einführung in die Ökonomie - Theorie und Praxis",
+    "lecturer": "Groß",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "SE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11849"
+  },
+  {
+    "id": "530636",
+    "name": "Einführung in die Volkswirtschaftslehre",
+    "lecturer": "Höppner",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11947"
+  },
+  {
+    "id": "530801",
+    "name": "Grundzüge der Makroökonomik",
+    "lecturer": "Berger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11949"
+  },
+  {
+    "id": "530802",
+    "name": "Grundzüge der Makroökonomik",
+    "lecturer": "Sahin",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/11949"
+  },
+  {
+    "id": "538102",
+    "name": "Allgemeine Betriebswirtschaftslehre II: Buchführung und Handelsbilanzierung",
+    "lecturer": "Hempel",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "VL",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12229"
+  },
+  {
+    "id": "538106",
+    "name": "Allgemeine Betriebswirtschaftslehre II: Buchführung und Handelsbilanzierung",
+    "lecturer": "Treuger",
+    "semester": "Wintersemester 2025/2026",
+    "course_type": "UE",
+    "ects": null,
+    "url": "http://www.b-tu.de/modul/12229"
+  }
+]
