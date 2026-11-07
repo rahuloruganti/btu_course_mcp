@@ -12,12 +12,12 @@ The BTU Course Assistant provides AI-powered access to BTU's course catalog thro
 
 ## Features
 
-✅ **Async scraping** - Fast, non-blocking concurrent requests to BTU LSF  
-✅ **Fallback resilience** - Handles variations in QIS system configurations  
-✅ **HTML parsing** - BeautifulSoup-based extraction from complex tables  
-✅ **Semester support** - Multiple semesters (SoSe/WiSe 2024-2026)  
-✅ **MCP integration** - Seamless Claude Desktop integration  
-✅ **Type-safe models** - Pydantic models for courses, schedules, and modules  
+- **Async scraping**: non-blocking httpx requests to BTU LSF
+- **Fallback resilience**: tries several QIS parameter sets, then BTU Mathematics planning pages
+- **HTML parsing**: BeautifulSoup-based extraction from complex tables
+- **Semester support**: multiple semesters (SoSe/WiSe 2024-2026)
+- **MCP integration**: works with Claude Desktop and other MCP clients
+- **Type-safe models**: Pydantic models for courses, schedules, and modules
 
 ## Architecture
 
@@ -121,34 +121,42 @@ Get module description by BTU module number.
 ## Setup & Installation
 
 ### Prerequisites
-- Python 3.8+
-- macOS (for homebrew) or adapt paths for Linux/Windows
+- Python 3.10 or newer. The repository does not pin a Python version; current FastMCP and Pydantic releases require 3.10, and no older interpreter has been tested here.
+- Network access to `lsf.b-tu.de` and `www.math.b-tu.de`.
+- macOS, Linux, or Windows. No Homebrew installation is required.
 
 ### Install
 
 ```bash
-# Create virtual environment
-/opt/homebrew/bin/python3 -m venv .venv
+git clone https://github.com/rahuloruganti/btu_course_mcp.git
+cd btu_course_mcp/btu-course-mcp
 
-# Install dependencies
-./.venv/bin/python -m pip install -r requirements.txt
+python3 -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+python -m pip install -r requirements.txt
 ```
+
+If you prefer Homebrew's Python over the interpreter already on `PATH`, use `"$(brew --prefix)/bin/python3" -m venv .venv`. On Apple Silicon `brew --prefix` is `/opt/homebrew`, so that resolves to `/opt/homebrew/bin/python3`; on Intel Macs it is `/usr/local/bin/python3`.
 
 ### Test Locally
 
 ```bash
-./.venv/bin/python test.py
+python test.py
 ```
+
+The test performs live requests against BTU LSF. It searches SoSe2025 courses, then tries the first result's schedule and module `11255`. Network failures or changed HTML can produce empty output or a printed failure message.
 
 ### Run MCP Server
 
 ```bash
-./.venv/bin/python server.py
+python server.py
 ```
+
+This starts a stdio MCP server. Your MCP client launches and manages the process.
 
 ## Claude Desktop Integration
 
-Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
+The config file is `~/Library/Application Support/Claude/claude_desktop_config.json` on macOS and `%APPDATA%\Claude\claude_desktop_config.json` on Windows. Run `pwd` inside `btu-course-mcp` and replace the placeholders with that absolute directory:
 
 ```json
 {
@@ -161,7 +169,7 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`:
 }
 ```
 
-**Then restart Claude Desktop.** The server will load on next launch.
+On Windows the interpreter path is `.venv\Scripts\python.exe`. **Restart Claude Desktop after saving.** The server loads on the next launch.
 
 ## Configuration
 
@@ -172,8 +180,10 @@ BASE_URL = "https://lsf.b-tu.de/qisserver/rds"  # BTU LSF endpoint
 
 SEMESTER_IDS = {
     "SoSe2026": "20261",  # Summer 2026
+    "SoSe2025": "20251",  # Summer 2025
     "WiSe2025": "20252",  # Winter 2025-26
-    # Add more as needed
+    "SoSe2024": "20241",  # Summer 2024
+    "WiSe2024": "20242",  # Winter 2024-25
 }
 
 DEFAULT_SEMESTER = "SoSe2026"
@@ -191,7 +201,8 @@ btu-course-mcp/
 ├── config.py              # Configuration (URL, semesters, headers)
 ├── models.py              # Pydantic data models (Course, Schedule, ModuleInfo)
 ├── requirements.txt       # Python dependencies
-├── test.py                # Integration tests & manual checks
+├── all-courses.json       # Saved course snapshot, not read by the server
+├── test.py                # Live smoke test & manual checks
 ├── README.md              # This file
 └── scrapers/
     ├── __init__.py
@@ -217,8 +228,8 @@ See `requirements.txt` for versions.
 
 ### Fallback Strategy
 - Multiple parameter sets allow compatibility with different QIS configs
-- First successful request returns results; others are skipped
-- Fallback sources (e.g., faculty planning pages) for course search
+- First parameter set that parses to non-empty results wins; later sets are skipped
+- If all LSF searches fail, course search falls back to BTU Mathematics department planning pages (`www.math.b-tu.de/perl-lp/`), which cover mathematics offerings rather than the whole catalog
 
 ### Error Handling
 - HTTP errors gracefully fall back to next parameter set
@@ -259,7 +270,7 @@ Run `test.py` to:
 - Calendar export (.ics)
 
 ## License & Credits
-Built with [FastMCP](https://github.com/jmanhype/fastmcp) and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/).
+Built with [FastMCP](https://github.com/PrefectHQ/fastmcp) and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/).
 
 ---
 
